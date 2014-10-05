@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B252380-B135-4CA7-A99A-FC2B692B363D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NotificationCenterSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B5E0A2A-89BC-4FF6-B7A7-D58174E84FB9</key>
+		<string>https://svn.strumsoft.com:8443/svn/FlockThere/Avadesh/Samples</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NotificationCenterSample/NotificationCenterSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B5E0A2A-89BC-4FF6-B7A7-D58174E84FB9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>0B5E0A2A-89BC-4FF6-B7A7-D58174E84FB9</key>
+		<string>https://svn.strumsoft.com:8443/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.strumsoft.com:8443/svn/FlockThere/Avadesh/Samples/NotificationCenterSample/NotificationCenterSample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B5E0A2A-89BC-4FF6-B7A7-D58174E84FB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B5E0A2A-89BC-4FF6-B7A7-D58174E84FB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Samples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
